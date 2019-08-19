@@ -1,2 +1,3 @@
-# proto
-Prototipo de un sistema basado en el uC ATmega328P
+# Construcción de un prototipo de sistema uC
+## Basado en el CI del uC ATmega328P.
+##
